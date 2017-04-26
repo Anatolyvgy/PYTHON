@@ -20,3 +20,4 @@ buttonthree.configure(text = "И я тоже")
 buttonfor = Frame(root, width = 50, height = 50, bg = "Yellow")
 buttonfor.place(x = 100, y = 200, width = 25, height = 25,)
 dgddgddjhdgjdgfjhffjdj
+dgddgddjhdgjdgfjhffjdjdgddgddjhdgjdgfjhffjdjdgddgddjhdgjdgfjhffjdjdgddgddjhdgjdgfjhffjdjdgddgddjhdgjdgfjhffjdjdgddgddjhdgjdgfjhffjdjdgddgddjhdgjdgfjhffjdjdgddgddjhdgjdgfjhffjdjdgddgddjhdgjdgfjhffjdjdgddgddjhdgjdgfjhffjdj
